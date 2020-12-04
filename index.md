@@ -4,8 +4,7 @@
 
 ---
 
-I am a PhD student working in the field of computational sciences. I am currently working under  <a href = "http://cds.iisc.ac.in/faculty/sashi/" target = "blank"> <b>Prof. Sashi Kumaar Ganesan</b> </a>
-</p> at the department of Computational and Data Sciences (CDS), Indian Institute of Science (IISc), Bangalore. Prior to this, I completed my master in science in Mathematics and Scientific Computing from National Institute of Technology, Warangal.
+I am a PhD student working in the field of computational sciences. I am currently working under  <a href = "http://cds.iisc.ac.in/faculty/sashi/" target = "blank"> <b>Prof. Sashi Kumaar Ganesan</b> </a> at the department of Computational and Data Sciences (CDS), Indian Institute of Science (IISc), Bangalore. Prior to this, I completed my master in science in Mathematics and Scientific Computing from National Institute of Technology, Warangal.
 
 My research area includes Ocean modelling of shallow water flow and inertial gravity waves using finite element method. For finite element implementation i am using our lab's inhouse package ParMooN(Parallel Mathematics and object oriented Numerics). It is an open source finite element package for the scalable (parallel) solution of partial differential equations.
 
