@@ -10,9 +10,10 @@ My research area includes Ocean modelling of shallow water flow and inertial gra
 
 
 
-I am particularly interested in the higher-order numerical schemes and different solution strategies for conservation laws. Some of the applications include shallow water dynamics, Computational Fluid Dynamics (CFD), Gasdynamics, Computational Aeroacoustics (CAA) and highway traffic modeling. In addition to this, my research interests include high performance computing, data driven approach to CFD and uncertainty quantification. Apart from research, I enjoy reading, photography, trekking and pencil sketching.
-
-
+In addition to this, my research interests include Computational Fluid dynamics,Finite element Methods, Geophysical fluid dynamics,high performance computing, data driven approach to CFD, Atmospheric Modelling. Apart from research, I enjoy traveling, Sports,trekking, fashion modelling and cooking.
+https://cmg.cds.iisc.ac.in/
+The website of Medical Imaging Group of Indian Institute of Science can be found <a href = "https://cmg.cds.iisc.ac.in/" target = "blank"> <b>HERE</b> </a>
+</p>
 
 
 <br>
