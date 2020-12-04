@@ -1,15 +1,10 @@
 title: Suman Bishnoi # your name (or website title) here
 logo: "/images/pp.HEIC?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  PhD, Computational and Mathematics Lab, 
-  <br>
-  Department of Computational and Data Sciences,
+  PhD, CMG
   <br>
   Indian Institute of Science Bangalore (2019-present)
-  <br><br>
-  Master of Science, Mathematics and Scientific Computing,
   <br>
-  National Institute of Technology, Warangal (2016-2018)
   
 show_downloads: true
 theme: jekyll-theme-minimal
