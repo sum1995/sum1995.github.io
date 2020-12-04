@@ -13,8 +13,7 @@ My research area includes Ocean modelling of shallow water flow and inertial gra
 
 In addition to this, my research interests include Computational Fluid dynamics,Finite element Methods, Geophysical fluid dynamics,high performance computing, data driven approach to CFD, Atmospheric Modelling. Apart from research, I enjoy traveling, Sports,trekking, fashion modelling and cooking.
 
-The website of Computational Mathematics Group of Indian Institute of Science can be found <a href = "https://cmg.cds.iisc.ac.in/" target = "blank"> <b>CMG</b> </a>
-</p>
+The website of Computational Mathematics Group of Indian Institute of Science can be found <a href = "https://cmg.cds.iisc.ac.in/" target = "blank"> <b>CMG</b> </a>.
 
 
 
