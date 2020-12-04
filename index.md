@@ -1,16 +1,17 @@
 ## About me
 ---
-I am M-Tech (Research) student under [Dr. Konduri Aditya](http://cds.iisc.ac.in/faculty/konduriadi/) in FLAME lab. I completed my Bachelor of Technology in Mechanical Engineering from Indian Institute of Technology (BHU) Varanasi in 2019 with GPA 8.01. In the same year, I joined Department of Computational and Data Sciences at Indian Institute of Science Bangalore. 
 
-My work focuses on Combustion Concepts that are relevent to low emissions, high efficiency and fuel flexibility of stationary gas turbines for power generation. I study the auto-ignition control mode using massively parallel Direct Numerical Simulations. These simulations generate huge data. So, I use different analyzing and visualization techniques to understand the flow physics.
+Welcome to my website!
 
-Apart from research, I am very much interested in sports. I like to play Football, Badminton and Cricket in particular, but I am up for any sports. I also like adventures sports like trekking and adventure camps.
+I am a PhD student working in the field of computational sciences. I am currently working at the department of Computational and Data Sciences (CDS), Indian Institute of Science (IISc), Bangalore. Prior to this, I completed my master in science in Mathematics and Scientific Computing from National Institute of Technology, Warangal.
 
-Interests:
-- Fluid Mechanics
-- Combustion
-- Turbulence
-- Scientific Computing
+My research area includes Ocean modelling of shallow water flow and inertial gravity waves using finite element method. For finite element implementation i am using our lab's inhouse package ParMooN(Parallel Mathematics and object oriented Numerics). It is an open source finite element package for the scalable (parallel) solution of partial differential equations.
+
+
+
+I am particularly interested in the higher-order numerical schemes and different solution strategies for conservation laws. Some of the applications include shallow water dynamics, Computational Fluid Dynamics (CFD), Gasdynamics, Computational Aeroacoustics (CAA) and highway traffic modeling. In addition to this, my research interests include high performance computing, data driven approach to CFD and uncertainty quantification. Apart from research, I enjoy reading, photography, trekking and pencil sketching.
+
+
 
 
 <br>
